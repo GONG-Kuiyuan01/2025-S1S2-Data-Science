@@ -6,5 +6,3 @@ I will deal with Micro and Macro datasets and store them here.
 # Announcement (latest update: April 27)
 
 I will update here from time to time in order to fully track those changes in my individual assignments and group project.  
-
-[![Resume](https://img.shields.io/badge/Resume-View-blue)](https://www.baidu.com/)
